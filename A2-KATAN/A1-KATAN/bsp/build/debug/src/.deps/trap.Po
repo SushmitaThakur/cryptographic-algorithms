@@ -1,0 +1,2 @@
+src/trap.o: \
+ /Users/sushmita/Work/Code/Crypto/qemu_sifive_e31_empty/freedom-metal/src/trap.S

@@ -1,0 +1,2 @@
+src/entry.o: \
+ /Users/sushmita/Work/Code/Crypto/A3-PRESENT/freedom-metal/src/entry.S

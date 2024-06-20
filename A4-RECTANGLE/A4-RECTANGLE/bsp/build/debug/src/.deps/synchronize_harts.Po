@@ -1,0 +1,87 @@
+src/synchronize_harts.o: \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/src/synchronize_harts.c \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/cpu.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/interrupt.h \
+ /Applications/FreedomStudio.app/Contents/Eclipse/SiFive/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8/lib/gcc/riscv64-unknown-elf/10.2.0/include/stddef.h \
+ /Applications/FreedomStudio.app/Contents/Eclipse/SiFive/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8/lib/gcc/riscv64-unknown-elf/10.2.0/include/stdint.h \
+ /Applications/FreedomStudio.app/Contents/Eclipse/SiFive/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8/riscv64-unknown-elf/include/stdint.h \
+ /Applications/FreedomStudio.app/Contents/Eclipse/SiFive/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8/riscv64-unknown-elf/include/machine/_default_types.h \
+ /Applications/FreedomStudio.app/Contents/Eclipse/SiFive/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8/riscv64-unknown-elf/include/sys/features.h \
+ /Applications/FreedomStudio.app/Contents/Eclipse/SiFive/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8/riscv64-unknown-elf/include/_newlib_version.h \
+ /Applications/FreedomStudio.app/Contents/Eclipse/SiFive/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8/riscv64-unknown-elf/include/sys/_intsup.h \
+ /Applications/FreedomStudio.app/Contents/Eclipse/SiFive/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8/riscv64-unknown-elf/include/sys/_stdint.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/io.h \
+ metal/machine.h metal/machine/platform.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/fixed-clock.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/clock.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/compiler.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/memory.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/riscv_clint0.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/riscv_cpu.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/riscv_plic0.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/pmp.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_local-external-interrupts0.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_gpio0.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/gpio.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_gpio-leds.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/led.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_pwm0.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/pwm.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_rtc0.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/rtc.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_spi0.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/spi.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_test0.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/shutdown.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_uart0.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/uart.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_wdog0.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/watchdog.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_fe310-g000_hfrosc.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_fe310-g000_prci.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_fe310-g000_hfxosc.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_fe310-g000_lfrosc.h \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_fe310-g000_pll.h
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/cpu.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/interrupt.h:
+/Applications/FreedomStudio.app/Contents/Eclipse/SiFive/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8/lib/gcc/riscv64-unknown-elf/10.2.0/include/stddef.h:
+/Applications/FreedomStudio.app/Contents/Eclipse/SiFive/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8/lib/gcc/riscv64-unknown-elf/10.2.0/include/stdint.h:
+/Applications/FreedomStudio.app/Contents/Eclipse/SiFive/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8/riscv64-unknown-elf/include/stdint.h:
+/Applications/FreedomStudio.app/Contents/Eclipse/SiFive/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8/riscv64-unknown-elf/include/machine/_default_types.h:
+/Applications/FreedomStudio.app/Contents/Eclipse/SiFive/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8/riscv64-unknown-elf/include/sys/features.h:
+/Applications/FreedomStudio.app/Contents/Eclipse/SiFive/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8/riscv64-unknown-elf/include/_newlib_version.h:
+/Applications/FreedomStudio.app/Contents/Eclipse/SiFive/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8/riscv64-unknown-elf/include/sys/_intsup.h:
+/Applications/FreedomStudio.app/Contents/Eclipse/SiFive/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8/riscv64-unknown-elf/include/sys/_stdint.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/io.h:
+metal/machine.h:
+metal/machine/platform.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/fixed-clock.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/clock.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/compiler.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/memory.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/riscv_clint0.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/riscv_cpu.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/riscv_plic0.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/pmp.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_local-external-interrupts0.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_gpio0.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/gpio.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_gpio-leds.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/led.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_pwm0.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/pwm.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_rtc0.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/rtc.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_spi0.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/spi.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_test0.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/shutdown.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_uart0.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/uart.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_wdog0.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/watchdog.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_fe310-g000_hfrosc.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_fe310-g000_prci.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_fe310-g000_hfxosc.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_fe310-g000_lfrosc.h:
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/drivers/sifive_fe310-g000_pll.h:

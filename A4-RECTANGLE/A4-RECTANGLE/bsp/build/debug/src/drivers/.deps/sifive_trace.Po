@@ -1,0 +1,4 @@
+src/drivers/sifive_trace.o: \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/src/drivers/sifive_trace.c \
+ metal/machine/platform.h
+metal/machine/platform.h:

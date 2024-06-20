@@ -1,0 +1,4 @@
+src/init.o: \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/src/init.c \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/init.h
+/Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/metal/init.h:

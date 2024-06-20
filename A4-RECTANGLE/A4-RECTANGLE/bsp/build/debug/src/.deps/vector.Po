@@ -1,0 +1,2 @@
+src/vector.o: \
+ /Users/sushmita/Work/Code/Crypto/A2-RECTANGLE/freedom-metal/src/vector.S

@@ -1,0 +1,4 @@
+src/drivers/sifive_gpio-buttons.o: \
+ /Users/sushmita/Work/Code/Crypto/A3-PRESENT/freedom-metal/src/drivers/sifive_gpio-buttons.c \
+ metal/machine/platform.h
+metal/machine/platform.h:

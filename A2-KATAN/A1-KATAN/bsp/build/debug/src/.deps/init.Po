@@ -1,0 +1,4 @@
+src/init.o: \
+ /Users/sushmita/Work/Code/Crypto/qemu_sifive_e31_empty/freedom-metal/src/init.c \
+ /Users/sushmita/Work/Code/Crypto/qemu_sifive_e31_empty/freedom-metal/metal/init.h
+/Users/sushmita/Work/Code/Crypto/qemu_sifive_e31_empty/freedom-metal/metal/init.h:

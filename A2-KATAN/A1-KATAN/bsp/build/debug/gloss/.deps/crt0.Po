@@ -1,0 +1,2 @@
+gloss/crt0.o: \
+ /Users/sushmita/Work/Code/Crypto/qemu_sifive_e31_empty/freedom-metal/gloss/crt0.S

@@ -1,0 +1,4 @@
+src/drivers/fixed-factor-clock.o: \
+ /Users/sushmita/Work/Code/Crypto/qemu_sifive_e31_empty/freedom-metal/src/drivers/fixed-factor-clock.c \
+ metal/machine/platform.h
+metal/machine/platform.h:
